@@ -59,7 +59,13 @@ body {
     background-color: #7785e6 !important;
     color: white !important;
   }
+
+  .botones_extra{
+    background-color: #0b7bcd!important;
+    color: white !important;
+  }  
   
+
   .margin-top-2 {
     margin-top: 32px;
   }
